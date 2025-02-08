@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oh my Lord, Hi 👋
 
 <!--
 **JKorpy/JKorpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
